@@ -1,2 +1,1 @@
-Este es mi archivo readme 
-Este es mi archivo readme 
+Almacen de configuraciones
